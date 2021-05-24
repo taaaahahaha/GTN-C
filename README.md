@@ -1,5 +1,5 @@
 # Guess the number:-
-#### A computer randomly selects a number between 1 and 100.
+#### The computer randomly selects a number between 1 and 100.
 #### You have to try and guess the number with given hints.
 > Restrictions : 
 > 1 =< input <= 100
